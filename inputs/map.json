@@ -1,0 +1,10 @@
+{
+  "rooms": [
+    { "id": 1, "name": "Room 1", "west": 2, "east": 4, "objects": [] },
+    { "id": 2, "name": "Room 2", "west": 3, "east": 1, "objects": [] },
+    { "id": 3, "name": "Room 3",            "east": 2, "objects": ["Uno"] },
+    { "id": 4, "name": "Room 4", "west": 1, "east": 5, "objects": ["Due", "Quattro"] },
+    { "id": 5, "name": "Room 5", "west": 4, "east": 6, "objects": [] },
+    { "id": 6, "name": "Room 6", "west": 5,            "objects": ["Tre"] }
+  ]
+}
